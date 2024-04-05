@@ -1,7 +1,6 @@
 import csv
 import sqlite3
 
-#teste de alteração no git
 # Função para conectar ao banco de dados SQLite3
 def conectar_bd():
     try:
